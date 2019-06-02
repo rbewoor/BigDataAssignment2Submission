@@ -1,0 +1,11 @@
+RatingSc,ActingSc,StorySc,OriginalitySc,PositiveReviews,Budget,Movie,CardNo
+8.2,7.8,8.94,8.8,45,1.55,Primer,1
+5.5,8.25,8.4,7.6,68,2.56,TheMist,2
+7.55,8.75,8.7,7.75,94,1.45,Oculus,3
+8.89,9.75,9.2,9.42,115,14.5,Seven,4
+9.34,9.72,8.65,8.12,190,18.56,BicentennialMan,5
+9.14,9.52,7.95,8.32,164,57.67,ApocalypseNow,6
+9.34,9.48,8.15,9.32,267,7.56,She,7
+3.54,5.57,4.55,2.32,156,69.42,TigerZindaHai,8
+7.97,9.09,8.66,8.63,36,12.34,TheThing,9
+9.24,9.28,9.15,9.59,182,38.92,BladeRunner,10
