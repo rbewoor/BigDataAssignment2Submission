@@ -131,7 +131,7 @@ class cPlayer:
                 a) whether the player is the starting or second player (calling parameters specify this)
                 b) spells not played and still available
                 c) whether Outdated deck has cards in it to allow Resurrect spell to be played
-                d) if God/ Resurrect selected, then sets the Usage Flag to False in the player object properties
+                d) if God/ Resurrect selected, then sets the Usage Flag to True in the player object properties
             2) Validates the input and asks to re-enter if invalid inputs.
         Calling parameters explanation:
             To show options for the Winner i.e. person starting the round
